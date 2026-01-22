@@ -14,6 +14,25 @@ On the side, I love building products end-to-end. My most recent project is **Um
 
 ---
 
+### 🚀 Deployed Apps
+
+**Umari** — https://umari.app  
+A scaleable **full-stack SaaS platform** for small food vendors to accept online orders via **shareable links or QR codes**. Features include real-time order management, payments, and a vendor dashboard designed for speed and reliability. Built end-to-end with a focus on performance and seamless user experience.
+
+**AggieAI** — https://aggieai.us  
+An **AI-powered platform for Texas A&M students**, designed to make choosing courses easy through conversational AI and course GPA distribution based responses as well as Rate My Professor reviews. Focused on fast responses, clean UX, and real-world student use.
+
+---
+
+### 👨🏾‍💻 What I’m Interested In
+
+* AI-powered products and agents
+* Full stack applications backend systems
+* Data-driven applications and insights
+* Startups and high-ownership engineering roles
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -54,18 +73,10 @@ On the side, I love building products end-to-end. My most recent project is **Um
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-4B8BBE?style=for-the-badge)
 
-### 🚀 What I’m Interested In
-
-* AI-powered products and agents
-* Full stack applications backend systems
-* Data-driven applications and insights
-* Startups and high-ownership engineering roles
-
----
-
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zain%20Bharde-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/zainbharde/)
 [![Instagram](https://img.shields.io/badge/Instagram-@zainbharde-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/zainbharde/)
 [![Website](https://img.shields.io/badge/Website-zainbharde.com-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](http://zainbharde.com)
 
+---
