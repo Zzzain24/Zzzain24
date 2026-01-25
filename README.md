@@ -1,6 +1,6 @@
 ## 👋🏽 Hi, I'm Zain Bharde
 
-I'm a **senior at Texas A&M University** studying **Data Engineering** with a **Computer Science minor**, currently based in **Houston, TX**. I enjoy building and shipping applications for real users, especially applications that sit at the intersection of **performance, data, and AI**.
+I'm a **senior at Texas A&M University** studying **Data Engineering** with a **Computer Science minor**, currently based in **Houston, TX**. I enjoy turning ideas into scalable, real-world applications through side projects.
 
 I started programming in high school and never looked back. I currently have the most fun experimenting with **AI agents, modern full-stack tools, and production-scale workflows**. When I’m not coding, you’ll probably find me playing basketball, traveling to a new city, or trying a new resturant.
 
@@ -8,7 +8,7 @@ I started programming in high school and never looked back. I currently have the
 
 ### 💼 Experience
 
-I’ve interned as a **Software Engineer** at **Dematic** and **The Home Depot**, working on performance-critical backend systems, cloud infrastructure, and real-world production services.
+I’ve interned as a **Software Engineer** at **The Home Depot** and **Dematic**, working on performance-critical backend systems, data interfaces, and real-world production services.
 
 On the side, I love building products end-to-end. My most recent project is **Umari**: a full-stack SaaS platform that helps small food vendors accept online orders through shareable links or QR codes, with real-time order management and payments.
 
@@ -26,8 +26,8 @@ An **AI-powered platform for Texas A&M students**, designed to make choosing cou
 
 ### 👨🏾‍💻 What I’m Interested In
 
-* AI-powered products and agents
-* Full stack applications backend systems
+* AI-powered tools and agents
+* Full stack applications and backend systems
 * Data-driven applications and insights
 * Startups and high-ownership engineering roles
 
