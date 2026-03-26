@@ -10,7 +10,7 @@ When I’m not coding you’ll probably find me playing basketball, traveling to
 
 ### 💼 Experience
 
-I’ve gained industry experience through internships at Dematic and The Home Depot as a **Software Engineer**. At Dematic, I worked on software for warehouse robotics and built tools to help operators manage data more efficiently. At The Home Depot, I improved the performance and efficiency of a core backend service, decreasing response times and cutting cloud costs.
+I’ve gained industry experience through internships at **Dematic** and **The Home Depot** as a **Software Engineer**. At Dematic, I worked on software for warehouse robotics and built tools to help operators manage data more efficiently. At The Home Depot, I improved the performance and efficiency of a core backend service, decreasing response times and cutting cloud costs.
 
 ---
 
