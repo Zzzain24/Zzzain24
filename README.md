@@ -1,8 +1,8 @@
 ## 👋🏽 Hi, I'm Zain Bharde
 
-I'm a **senior at Texas A&M University** studying **Data Engineering** with a **Computer Science minor**, currently based in **Houston, TX**. I enjoy turning ideas into scalable, real-world applications through side projects.
+I'm a **senior at Texas A&M University** pursuing a **B.S.** in **Data Engineering** with a **Computer Science minor**, currently based in **Houston, TX**. During my time at Texas A&M, I have developed a strong foundation in Data Science and Machine Learning, along with core knowledge in Statistics and Data Engineering principles. 
 
-I started programming in high school and never looked back. I currently have the most fun experimenting with **AI agents, modern full-stack tools, and production-scale workflows**. When I’m not coding, you’ll probably find me playing basketball, traveling to a new city, or trying a new resturant.
+I started programming in high school and have been hooked ever since. As of now, I have the most fun experimenting with modern AI tools like **Claude Code** and **Cursor**, building projects with modern full-stack frameworks, and applying these skills to solve real user problems. When I’m not coding you’ll probably find me playing basketball, traveling to a new city, or trying a new resturant.
 
 ---
 
