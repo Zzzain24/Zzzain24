@@ -8,7 +8,7 @@ I started programming in high school and have been hooked ever since. As of now,
 
 ### 💼 Experience
 
-I’ve interned as a **Software Engineer** at **The Home Depot** and **Dematic**, working on performance-critical backend systems, data interfaces, and real-world production services.
+I’ve gained industry experience through internships at Dematic and The Home Depot as a **Software Engineer**. At Dematic, I worked on software for warehouse robotics and built tools to help operators manage data more efficiently. At The Home Depot, I improved the performance and efficiency of a core backend service, decreasing response times and cutting cloud costs.
 
 On the side, I love building products end-to-end. My most recent project is **Umari**: a full-stack SaaS platform that helps small food vendors accept online orders through shareable links or QR codes, with real-time order management and payments.
 
