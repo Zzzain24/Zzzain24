@@ -29,7 +29,7 @@ An **AI-powered platform for Texas A&M students**, designed to make choosing cou
 * AI-powered tools and agents
 * Full stack applications and backend systems
 * Data-driven applications and insights
-* Startups and high-ownership engineering roles
+* Keeping up with the latest adavancements in technology (amazing resource: https://tldr.tech)
 
 ---
 
