@@ -4,6 +4,8 @@ I'm a **senior at Texas A&M University** pursuing a **B.S.** in **Data Engineeri
 
 I started programming in high school and have been hooked ever since. As of now, I have the most fun experimenting with modern AI tools like **Claude Code** and **Cursor**, building projects with modern full-stack frameworks, and applying these skills to solve real user problems. My most recent project is **Umari**: a full-stack SaaS platform that helps small food vendors accept online orders through shareable links or QR codes, with real-time order management and payments.
 
+When I’m not coding you’ll probably find me playing basketball, traveling to a new city, or trying a new resturant.
+
 ---
 
 ### 💼 Experience
