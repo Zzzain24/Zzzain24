@@ -2,15 +2,13 @@
 
 I'm a **senior at Texas A&M University** pursuing a **B.S.** in **Data Engineering** with a **Computer Science minor**, currently based in **Houston, TX**. During my time at Texas A&M, I have developed a strong foundation in Data Science and Machine Learning, along with core knowledge in Statistics and Data Engineering principles. 
 
-I started programming in high school and have been hooked ever since. As of now, I have the most fun experimenting with modern AI tools like **Claude Code** and **Cursor**, building projects with modern full-stack frameworks, and applying these skills to solve real user problems. When I’m not coding you’ll probably find me playing basketball, traveling to a new city, or trying a new restaurant.
+I started programming in high school and have been hooked ever since. As of now, I have the most fun experimenting with modern AI tools like **Claude Code** and **Cursor**, building projects with modern full-stack frameworks, and applying these skills to solve real user problems. My most recent project is **Umari**: a full-stack SaaS platform that helps small food vendors accept online orders through shareable links or QR codes, with real-time order management and payments.
 
 ---
 
 ### 💼 Experience
 
 I’ve gained industry experience through internships at Dematic and The Home Depot as a **Software Engineer**. At Dematic, I worked on software for warehouse robotics and built tools to help operators manage data more efficiently. At The Home Depot, I improved the performance and efficiency of a core backend service, decreasing response times and cutting cloud costs.
-
-On the side, I love building products end-to-end. My most recent project is **Umari**: a full-stack SaaS platform that helps small food vendors accept online orders through shareable links or QR codes, with real-time order management and payments.
 
 ---
 
