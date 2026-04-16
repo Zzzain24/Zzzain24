@@ -25,6 +25,9 @@ A scaleable **full-stack SaaS platform** for small food vendors to accept online
 **AggieAI** — https://aggieai.us  
 An **AI-powered platform for Texas A&M students**, designed to make choosing courses easy through conversational AI and course GPA distribution based responses as well as Rate My Professor reviews. Focused on fast responses, clean UX, and real-world student use.
 
+**Personal Website** — https://zainbharde.com  
+A clean, responsive **portfolio site** showcasing my experience, projects, and resume. Built with HTML, CSS, and JavaScript and deployed on Vercel.
+
 ---
 
 ### 👨🏾‍💻 What I’m Interested In
