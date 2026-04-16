@@ -16,6 +16,9 @@ I’ve gained industry experience through internships at **Dematic** and **The H
 
 ### 🚀 Deployed Apps
 
+**MoodSort** — https://mood-sort.vercel.app  
+**AI playlist curation app** that organizes your existing Spotify liked songs into mood-based playlists. Describe a vibe, pick seed songs, and an **AI scoring pipeline** analyzes your liked songs by energy, tempo, and mood to find the perfect matches. Built with Next.js 15, Supabase, OpenAI API, and the Spotify Web API.
+
 **Umari** — https://umari.app  
 A scaleable **full-stack SaaS platform** for small food vendors to accept online orders via **shareable links or QR codes**. Features include real-time order management, payments, and a vendor dashboard designed for speed and reliability. Built end-to-end with a focus on performance and seamless user experience.
 
