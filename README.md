@@ -1,6 +1,6 @@
 ## 👋🏽 Hi, I'm Zain Bharde
 
-I'm a **senior at Texas A&M University** pursuing a **B.S.** in **Data Engineering** with a **Computer Science minor**, currently based in **Houston, TX**. During my time at Texas A&M, I have developed a strong foundation in Data Science and Machine Learning, along with core knowledge in Statistics and Data Engineering principles. 
+I'm a **Texas A&M University** graduate with a **B.S.** in **Data Engineering** an a minor in **Computer Science**, currently based in **Houston, TX**. During my time at Texas A&M, I have developed a strong foundation in Data Science and Machine Learning, along with core knowledge in Statistics and Data Engineering principles. 
 
 I started programming in high school and have been hooked ever since. As of now, I have the most fun experimenting with modern AI tools like **Claude Code** and **Cursor**, building projects with modern full-stack frameworks, and applying these skills to solve real user problems. My most recent project is **Umari**: a full-stack SaaS platform that helps small food vendors accept online orders through shareable links or QR codes, with real-time order management and payments.
 
